@@ -1,6 +1,6 @@
 # Machine-Learning-models
 
-* Credit card fraud detection using machine learning models is a critical application in the field of data science and finance. Here's a brief overview of how it works:
+* Credit card fraud detection using machine learning models is a critical application in the field of data science and finance.
 
 * The goal of credit card fraud detection is to identify fraudulent transactions from legitimate ones in credit card transaction data. Fraudulent activities can include unauthorized transactions, stolen card information, or other forms of financial fraud.
 
